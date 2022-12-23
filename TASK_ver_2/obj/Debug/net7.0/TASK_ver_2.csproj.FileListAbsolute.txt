@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\bin\Debug\net7.0\TASK_ver_2.exe
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\bin\Debug\net7.0\TASK_ver_2.deps.json
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\bin\Debug\net7.0\TASK_ver_2.runtimeconfig.json
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\bin\Debug\net7.0\TASK_ver_2.dll
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\bin\Debug\net7.0\TASK_ver_2.pdb
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.AssemblyInfo.cs
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.dll
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\refint\TASK_ver_2.dll
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.pdb
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\TASK_ver_2.genruntimeconfig.cache
+C:\Users\user\Desktop\Control_Task\Control_Work-S.Bondarenko-\TASK_ver_2\obj\Debug\net7.0\ref\TASK_ver_2.dll
